@@ -1,2 +1,3 @@
 # frontendmentor
-Solutions from frontend mentor
+
+Solutions for frontendmentor.io challenges
